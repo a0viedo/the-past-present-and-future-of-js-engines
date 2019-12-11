@@ -11,3 +11,4 @@ Resources:
 - [PWN2OWN 2019 (Day 1)](https://gbhackers.com/pwn2own-2019-day-1/)
 - [PWN2OWN VANCOUVER 2019: DAY TWO RESULTS](https://www.zerodayinitiative.com/blog/2019/3/21/pwn2own-vancouver-2019-day-two-results)
 - [JavaScriptCore, the WebKit JS implementation](https://wingolog.org/archives/2011/10/28/javascriptcore-the-webkit-js-implementation)
+- [Internet growth stats](https://internetworldstats.com/emarketing.htm)
